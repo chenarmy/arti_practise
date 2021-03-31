@@ -1,1 +1,1 @@
-[memory]: practise/memory.md
+[memory]: (practise/memory.md)
